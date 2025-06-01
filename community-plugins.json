@@ -17337,5 +17337,12 @@
     "author": "Sangrak Choi",
     "description": "Create a new note with today's date in the current directory",
     "repo": "kargnas/obsidian-create-note-with-date"
+},
+{
+    "id": "custom-comment",
+    "name": "Custom Comments",
+    "author": "Jack Chronicle",
+    "description": "Lets you customize your comment syntax/formats.",
+    "repo": "jack-chronicle/custom-comment"
 }
 ]
